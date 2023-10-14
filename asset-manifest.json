@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/advance-task-list-react/static/css/main.1c247209.css",
+    "main.js": "/advance-task-list-react/static/js/main.c4f789a2.js",
+    "index.html": "/advance-task-list-react/index.html",
+    "main.1c247209.css.map": "/advance-task-list-react/static/css/main.1c247209.css.map",
+    "main.c4f789a2.js.map": "/advance-task-list-react/static/js/main.c4f789a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c247209.css",
+    "static/js/main.c4f789a2.js"
+  ]
+}
