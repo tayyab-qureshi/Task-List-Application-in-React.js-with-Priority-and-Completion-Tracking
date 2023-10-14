@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/advance-task-list-react/static/css/main.1c247209.css",
-    "main.js": "/advance-task-list-react/static/js/main.c4f789a2.js",
-    "index.html": "/advance-task-list-react/index.html",
-    "main.1c247209.css.map": "/advance-task-list-react/static/css/main.1c247209.css.map",
-    "main.c4f789a2.js.map": "/advance-task-list-react/static/js/main.c4f789a2.js.map"
+    "main.css": "/Task-List-Application-in-React.js-with-Priority-and-Completion-Tracking/static/css/main.1c247209.css",
+    "main.js": "/Task-List-Application-in-React.js-with-Priority-and-Completion-Tracking/static/js/main.853f22c8.js",
+    "index.html": "/Task-List-Application-in-React.js-with-Priority-and-Completion-Tracking/index.html",
+    "main.1c247209.css.map": "/Task-List-Application-in-React.js-with-Priority-and-Completion-Tracking/static/css/main.1c247209.css.map",
+    "main.853f22c8.js.map": "/Task-List-Application-in-React.js-with-Priority-and-Completion-Tracking/static/js/main.853f22c8.js.map"
   },
   "entrypoints": [
     "static/css/main.1c247209.css",
-    "static/js/main.c4f789a2.js"
+    "static/js/main.853f22c8.js"
   ]
 }
