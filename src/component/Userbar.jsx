@@ -40,7 +40,7 @@ document.body.className = theme;
         <h1 style={{color: "var(--text-s)"}} className="text-normal font-semibold">Hi, User!</h1>
 
         <img
-          src="/img/images.jpeg"
+          src={process.env.PUBLIC_URL + '/img/images.jpeg'}
           alt=""
           className="w-[40px] h-[40px] rounded-[50px]"
         />
