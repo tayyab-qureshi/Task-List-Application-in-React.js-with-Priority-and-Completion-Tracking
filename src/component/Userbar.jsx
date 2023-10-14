@@ -48,7 +48,7 @@ document.body.className = theme;
       <div className="px-5 flex justify-between items-center pt-5">
         <h1 style={{color: "var(--text-b)"}}>Darkmode</h1>
         <div onClick={handleToggle}>
-        <PurpleSwitch {...label} defaultChecked  />
+        <PurpleSwitch {...label}  />
         </div>
       </div>
     </div>
