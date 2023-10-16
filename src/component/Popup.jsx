@@ -33,7 +33,7 @@ const Popup = ({ popup, setPopup,handleSubmitData }) => {
             <button style={{color: "var(--text-b)"}} className="text-xl" onClick={() => setPopup(false)}>x</button>
           </div>
           <label htmlFor="Title" className="pt-5" style={{color: "var(--text-s)"}} >
-            Title
+            Title,s
           </label>
           <input
           style={{backgroundColor: "var(--side-clr)",color: "var(--text-s)"}}
