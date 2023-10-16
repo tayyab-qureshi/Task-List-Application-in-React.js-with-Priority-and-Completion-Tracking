@@ -31,7 +31,7 @@ const Popup = ({ popup, setPopup,handleSubmitData }) => {
             <h1 className="text-xl">Add a task</h1>
             <button className="text-xl" onClick={() => setPopup(false)}>x</button>
           </div>
-          <label htmlFor="Title" className="pt-5">
+          <label htmlFor="Title" className="pt-5 " style={{color: "var(--text-s)"}}>
             Title
           </label>
           <input
